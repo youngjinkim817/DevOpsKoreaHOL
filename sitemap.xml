@@ -6,17 +6,17 @@
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://youngjinkim817.github.io/DevOpsKoreaHOL/credit.html</loc>
-		<lastmod>2021-08-05</lastmod>
-		<changefreq>daily</changefreq>
-	</url>
-	<url>
 		<loc>http://youngjinkim817.github.io/DevOpsKoreaHOL/alive.html</loc>
 		<lastmod>2021-08-05</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>http://youngjinkim817.github.io/DevOpsKoreaHOL/hol\hol.html</loc>
+		<lastmod>2021-08-05</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://youngjinkim817.github.io/DevOpsKoreaHOL/credit.html</loc>
 		<lastmod>2021-08-05</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
