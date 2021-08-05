@@ -1,5 +1,6 @@
 # Azure DevOps HOL
 # Demo 2 를 위한 업데이트입니다.
+#Azure Board 와 연동하는 업데이트데모입니다. 
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
