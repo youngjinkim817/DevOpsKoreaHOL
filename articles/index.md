@@ -1,7 +1,6 @@
 # Azure DevOps HOL
 # Demo 2 를 위한 업데이트입니다.
-#Azure Board AB#3 연동을 위한 데모입니다.
-
+#Azure Board AB#3 데모
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
 ## 사전 준비 사항
